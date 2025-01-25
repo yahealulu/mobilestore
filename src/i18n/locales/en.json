@@ -1,0 +1,43 @@
+{
+  "common": {
+    "search": "Search",
+    "cart": "Cart",
+    "account": "Account",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "currency": "Currency",
+    "dashboard": "Dashboard",
+    "analytics": "Analytics",
+    "reports": "Reports"
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "overview": "Overview",
+    "sales": "Sales",
+    "revenue": "Revenue",
+    "orders": "Orders",
+    "customers": "Customers",
+    "inventory": "Inventory",
+    "lowStock": "Low Stock Items",
+    "topSelling": "Top Selling",
+    "recentOrders": "Recent Orders",
+    "customerStats": "Customer Statistics",
+    "dailySales": "Daily Sales",
+    "monthlySales": "Monthly Sales",
+    "exportReport": "Export Report"
+  },
+  "products": {
+    "title": "Latest Phones",
+    "addToCart": "Add to Cart",
+    "specifications": "Specifications",
+    "reviews": "Reviews",
+    "price": "Price",
+    "brand": "Brand",
+    "outOfStock": "Out of Stock",
+    "recommended": "Recommended for You",
+    "inventory": "Inventory",
+    "sku": "SKU",
+    "stockLevel": "Stock Level"
+  }
+}

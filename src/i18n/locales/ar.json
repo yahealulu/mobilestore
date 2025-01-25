@@ -1,0 +1,43 @@
+{
+  "common": {
+    "search": "بحث",
+    "cart": "سلة التسوق",
+    "account": "الحساب",
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "logout": "تسجيل الخروج",
+    "currency": "العملة",
+    "dashboard": "لوحة التحكم",
+    "analytics": "التحليلات",
+    "reports": "التقارير"
+  },
+  "admin": {
+    "title": "لوحة التحكم",
+    "overview": "نظرة عامة",
+    "sales": "المبيعات",
+    "revenue": "الإيرادات",
+    "orders": "الطلبات",
+    "customers": "العملاء",
+    "inventory": "المخزون",
+    "lowStock": "المنتجات منخفضة المخزون",
+    "topSelling": "الأكثر مبيعاً",
+    "recentOrders": "آخر الطلبات",
+    "customerStats": "إحصائيات العملاء",
+    "dailySales": "المبيعات اليومية",
+    "monthlySales": "المبيعات الشهرية",
+    "exportReport": "تصدير التقرير"
+  },
+  "products": {
+    "title": "أحدث الهواتف",
+    "addToCart": "أضف إلى السلة",
+    "specifications": "المواصفات",
+    "reviews": "التقييمات",
+    "price": "السعر",
+    "brand": "العلامة التجارية",
+    "outOfStock": "غير متوفر",
+    "recommended": "موصى به لك",
+    "inventory": "المخزون",
+    "sku": "رمز المنتج",
+    "stockLevel": "مستوى المخزون"
+  }
+}
